@@ -57,7 +57,6 @@ function draw() {
     vertex(260, 210);//bottom-right
     vertex(250, 177);//top-bridge
     endShape();
-
     //nose
 
 }
